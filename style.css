@@ -58,8 +58,14 @@ article{
 	margin-top: 30px;
 	margin-bottom: 70px;
 }
+
 a{
 	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.text p{
+	color: black;
 	text-decoration: none;
 }
 
@@ -172,4 +178,9 @@ th, td {
 	margin-top: 10px;
 }
 
-
+.thanku-div{
+	width: 1305px;
+	text-align: center;
+	color: black;
+	font-weight: 8px;
+}
